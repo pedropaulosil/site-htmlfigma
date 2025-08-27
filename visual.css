@@ -1,0 +1,158 @@
+body 
+{ 
+    background-image: url(photo-1470770841072-f978cf4d019e.jfif);
+    background-size:cover;
+    background-position:top;
+    background-attachment:local;  
+    margin: 0; 
+}
+ 
+header 
+{
+    background-color: color();
+    height: 60px;
+    
+
+}
+
+nav
+{
+    display:  flex;
+    color:currentColor E5F8D0;
+    justify-content: space-between;
+    padding-right: 200px ;
+    padding-left: 550px;
+    text-align: center;
+    padding-top: 26px;
+
+
+}
+
+nav a 
+{
+color:#E5F8D0;
+font-size: 18px;
+font-family:JejuGothic;
+text-decoration: none;
+padding-top: 16px;p
+}
+
+nav a :hover 
+{
+    color: burlywood;
+}
+
+h1
+{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+    text-align: center;
+
+}
+h2 
+
+{   font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align:start;
+    font-size: 32px;
+    padding-left: 60px ;
+    padding-right: 0px;
+    padding-top: 500px;
+    
+
+    
+    
+
+}
+h3
+{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align:right;
+    font-size: 32px;
+    color: #E5F8D0;
+    padding-left:900px;
+    padding-right: 150px;
+    padding-top: 200px;
+}
+
+h4
+{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align:right;
+    font-size: 25px;
+    color: #E5F8D0;
+    padding-left: 1500px;
+    padding-right: 50px;
+    
+}
+
+
+
+.divPai 
+{
+    
+    display: flex;
+    justify-content: space-between;
+    
+
+}
+
+.divFilho1 
+{
+ display: flex;
+ background-size: cover;
+ padding-left: 20px;
+ text-align: center;
+ 
+}
+ 
+
+ .divFilho2
+ {
+    display: flex;
+    text-align: center;
+    background-size: cover;
+ }
+
+ .divFilho3
+ {
+
+ }
+
+
+
+
+ .divPai2 
+{
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.divFilho2_1
+{
+
+ }
+
+ .divFilho2_3
+ {
+ }
+
+
+ .divPai3
+{
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.divFilho3_1
+{
+ 
+}
+
+ .divFilho3_2
+ {
+ }
+
+ .divFilho3_3
+ {
+ }
